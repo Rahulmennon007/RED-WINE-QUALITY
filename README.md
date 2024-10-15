@@ -74,7 +74,9 @@ Project Steps:
 Future Work:
 
 • Explore additional machine learning techniques such as ensemble methods to further improve prediction accuracy.
+
 • Experiment with different feature engineering methods and hyperparameter tuning for better model performance.
+
 • Extend the analysis to include other wine varieties and create a comprehensive wine quality prediction system.
   
 Technologies Used:
