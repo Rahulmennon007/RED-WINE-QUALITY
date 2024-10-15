@@ -73,12 +73,12 @@ Project Steps:
 
 Future Work:
 
-  • Explore additional machine learning techniques such as ensemble methods to further improve prediction accuracy.
-  • Experiment with different feature engineering methods and hyperparameter tuning for better model performance.
-  • Extend the analysis to include other wine varieties and create a comprehensive wine quality prediction system.
+• Explore additional machine learning techniques such as ensemble methods to further improve prediction accuracy.
+• Experiment with different feature engineering methods and hyperparameter tuning for better model performance.
+• Extend the analysis to include other wine varieties and create a comprehensive wine quality prediction system.
   
 Technologies Used:
 
-  • Python (Pandas, Numpy, Scikit-learn, Seaborn, Matplotlib)
-  • Machine Learning algorithms: Random Forest, Logistic Regression, SVM, etc.
-  • Interactive Visualization: Developed Tableau dashboards for insights into wine quality and business optimization.
+• Python (Pandas, Numpy, Scikit-learn, Seaborn, Matplotlib)
+• Machine Learning algorithms: Random Forest, Logistic Regression, SVM, etc.
+• Interactive Visualization: Developed Tableau dashboards for insights into wine quality and business optimization.
